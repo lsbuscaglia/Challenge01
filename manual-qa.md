@@ -6,7 +6,6 @@ Welcome to the Manual QA Tester challenge! In this challenge, you will be testin
 -   Test the functionality of the frontend application located at https://todolist.james.am/#/ using manual testing techniques.
 -   Using Postman, create API tests for the API located at https://restful-booker.herokuapp.com/apidoc/index.html. This could include testing different endpoints, creating test cases for different input and output scenarios, and validating the response codes and payloads.
 -   Create automated test for this API using postman.
--   Create automated test for this API using postman.
 
 ## Expected Outputs:
 
