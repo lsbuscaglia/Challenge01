@@ -1,4 +1,4 @@
-### Introduction:
+## Introduction:
 Welcome to the Manual QA Tester challenge! In this challenge, you will be testing a frontend application and an API using manual and automated testing techniques. The goal of this challenge is to evaluate your skills in manual testing, your understanding of API testing, and your ability to create automated tests using Postman.
 
 ## Task:
@@ -15,6 +15,6 @@ Welcome to the Manual QA Tester challenge! In this challenge, you will be testin
 -   A set of automated tests that can be run using Postman.
 -   A summary report of the testing results including the number of test cases, passed and failed test cases, and any bugs or issues found during testing.
 
-# Deadline: 48 hs 
+## Deadline: 48 hs 
 
 Please submit the outputs in a zip file or as a shared link.
